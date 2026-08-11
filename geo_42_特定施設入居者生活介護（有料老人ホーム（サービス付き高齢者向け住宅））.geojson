@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "geo_42_特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "アルファリビング長崎大浦【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】長崎県長崎市下町4番33号アルファリビング長崎大浦", "url": "https://www.kaigokensaku.mhlw.go.jp/42/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4270112263-00&ServiceCd=&Type=search", "url2": "http://www.a-living.jp/nagasaki/oura/" }, "geometry": { "type": "Point", "coordinates": [ 129.8735217, 32.7342722 ] } },
+{ "type": "Feature", "properties": { "内容": "南山手十三番館【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】長崎県長崎市南山手町3-28南山手十三番館", "url": "https://www.kaigokensaku.mhlw.go.jp/42/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4270136122-00&ServiceCd=&Type=search", "url2": "https://www.ooura13.com" }, "geometry": { "type": "Point", "coordinates": [ 129.868701799999968, 32.735431300000016 ] } },
+{ "type": "Feature", "properties": { "内容": "サービス付き高齢者向け住宅　ナイスケア　みなとまち【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】長崎県佐世保市湊町5-5", "url": "https://www.kaigokensaku.mhlw.go.jp/42/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4270205034-00&ServiceCd=&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 129.717962599999964, 33.172891 ] } },
+{ "type": "Feature", "properties": { "内容": "特定施設入居者生活介護事業所　あんしんハウス島原【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】長崎県島原市城見町4950-1", "url": "https://www.kaigokensaku.mhlw.go.jp/42/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4270301064-00&ServiceCd=&Type=search", "url2": "http://nissin-g.jp" }, "geometry": { "type": "Point", "coordinates": [ 130.3596781, 32.7880998 ] } },
+{ "type": "Feature", "properties": { "内容": "花心苑【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】長崎県雲仙市国見町神代甲955-1", "url": "https://www.kaigokensaku.mhlw.go.jp/42/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4272400781-00&ServiceCd=&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 130.273126997345003, 32.863911509557369 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付き有料老人ホーム　いきいきハウス若竹【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】長崎県南島原市有家町中須川170番地", "url": "https://www.kaigokensaku.mhlw.go.jp/42/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4272500663-00&ServiceCd=&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 130.303716035581942, 32.664028650508648 ] } },
+{ "type": "Feature", "properties": { "内容": "サービス付き高齢者向け住宅　モン・サンながさき【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】西彼杵郡時津町浜田郷465", "url": "https://www.kaigokensaku.mhlw.go.jp/42/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4271102909-00&ServiceCd=&Type=search", "url2": "http://keiseikai.biz/" }, "geometry": { "type": "Point", "coordinates": [ 129.8568017, 32.8329516 ] } }
+]
+}

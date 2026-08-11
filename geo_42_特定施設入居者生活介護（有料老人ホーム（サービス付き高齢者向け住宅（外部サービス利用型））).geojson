@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_42_特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅（外部サービス利用型））)",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "医療法人　恵会　外部サービス利用型特定施設入居者生活介護事業者　マザリーホーム光風台【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅（外部サービス利用型））)】長崎県長崎市鳴見台２丁目４５番２０号", "url": "https://www.kaigokensaku.mhlw.go.jp/42/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=4270109251-00&ServiceCd=&Type=search", "url2": "http://www.kfdh.org/motherly/" }, "geometry": { "type": "Point", "coordinates": [ 129.806799899999987, 32.8236769 ] } }
+]
+}
